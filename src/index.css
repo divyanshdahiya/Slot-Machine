@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: #00ff8842;
+}
+.container{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #00ff8838;
+}
+.heading{
+    padding: 40px;
+}
+.btn{
+    padding: 10px;
+    background-color: #00ff885b;
+    cursor: pointer;
+}
+.slot{
+    padding: 10px;
+}
+.slot h1{
+    padding: 10px;
+}
+
+@media screen and (max-width: 500px){
+    .container{
+        width: 90%;
+        margin-top: 200px;
+    }
+}

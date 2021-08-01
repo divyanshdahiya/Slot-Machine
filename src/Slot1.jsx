@@ -1,7 +1,7 @@
 import React from 'react';
 import './index.css';
 
-const Slot = () => {
+const Slot1 = () => {
 
 
     var emoji = [
@@ -36,4 +36,4 @@ const Slot = () => {
     }
 }
 
-export default Slot;
+export default Slot1;
